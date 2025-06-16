@@ -1,0 +1,62 @@
+[
+  {
+    "Id": 1,
+    "userId": 1,
+    "content": "Just finished designing a new mobile app interface! The color palette came out exactly as I envisioned. Sometimes the simplest designs make the biggest impact. What do you think makes a design truly memorable?",
+    "imageUrls": ["https://images.unsplash.com/photo-1609921212029-bb5a28e60960?w=600&h=400&fit=crop"],
+    "timestamp": "2024-01-20T10:15:00Z",
+    "likesCount": 42,
+    "commentsCount": 8,
+    "isLiked": false
+  },
+  {
+    "Id": 2,
+    "userId": 2,
+    "content": "Exciting news! Our startup just secured Series A funding! 🎉 This journey has been incredible - from late nights coding in my garage to now having a team of 15 amazing people. Grateful for everyone who believed in our vision.",
+    "imageUrls": [],
+    "timestamp": "2024-01-19T15:30:00Z",
+    "likesCount": 127,
+    "commentsCount": 23,
+    "isLiked": true
+  },
+  {
+    "Id": 3,
+    "userId": 3,
+    "content": "Sunrise over Angkor Wat was absolutely breathtaking! There's something magical about watching the world wake up from such a historic place. The light hitting those ancient stones... no words can describe it properly.",
+    "imageUrls": ["https://images.unsplash.com/photo-1539650116574-75c0c6d05be9?w=600&h=400&fit=crop"],
+    "timestamp": "2024-01-19T06:45:00Z",
+    "likesCount": 89,
+    "commentsCount": 15,
+    "isLiked": false
+  },
+  {
+    "Id": 4,
+    "userId": 4,
+    "content": "Finally deployed my personal project to production! 🚀 It's a simple todo app but I'm proud of the clean code architecture and responsive design. Next step: adding some cool animations. Any suggestions for micro-interactions?",
+    "imageUrls": ["https://images.unsplash.com/photo-1461749280684-dccba630e2f6?w=600&h=400&fit=crop"],
+    "timestamp": "2024-01-18T20:20:00Z",
+    "likesCount": 34,
+    "commentsCount": 12,
+    "isLiked": true
+  },
+  {
+    "Id": 5,
+    "userId": 5,
+    "content": "Morning yoga session by the beach 🌊 There's something so grounding about practicing with the sound of waves. Remember, wellness isn't just about physical health - it's about finding peace in the present moment.",
+    "imageUrls": ["https://images.unsplash.com/photo-1544367567-0f2fcb009e0b?w=600&h=400&fit=crop"],
+    "timestamp": "2024-01-18T08:00:00Z",
+    "likesCount": 76,
+    "commentsCount": 19,
+    "isLiked": false
+  },
+  {
+    "Id": 6,
+    "userId": 1,
+    "content": "Coffee and creativity go hand in hand ☕ Working on some new logo concepts for a local bakery. There's something special about helping small businesses tell their story through design.",
+    "imageUrls": [],
+    "timestamp": "2024-01-17T14:25:00Z",
+    "likesCount": 28,
+    "commentsCount": 6,
+    "isLiked": false
+  }
+]

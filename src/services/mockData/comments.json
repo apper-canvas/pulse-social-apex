@@ -1,0 +1,58 @@
+[
+  {
+    "Id": 1,
+    "postId": 1,
+    "userId": 2,
+    "content": "Love the clean aesthetic! The color choices really make the interface pop. How long did this take you?",
+    "timestamp": "2024-01-20T10:45:00Z",
+    "likesCount": 5
+  },
+  {
+    "Id": 2,
+    "postId": 1,
+    "userId": 4,
+    "content": "This is exactly the kind of minimal design I've been trying to achieve. Any tips for choosing the right color palette?",
+    "timestamp": "2024-01-20T11:20:00Z",
+    "likesCount": 3
+  },
+  {
+    "Id": 3,
+    "postId": 2,
+    "userId": 1,
+    "content": "Congratulations! This is huge! I remember when you first told me about your idea. So proud of how far you've come 🙌",
+    "timestamp": "2024-01-19T16:00:00Z",
+    "likesCount": 12
+  },
+  {
+    "Id": 4,
+    "postId": 2,
+    "userId": 3,
+    "content": "Amazing news! Would love to hear more about your journey sometime. Maybe we can grab coffee when I'm back in town?",
+    "timestamp": "2024-01-19T16:15:00Z",
+    "likesCount": 8
+  },
+  {
+    "Id": 5,
+    "postId": 3,
+    "userId": 5,
+    "content": "This photo is absolutely stunning! Cambodia has been on my travel list forever. The lighting is perfect ✨",
+    "timestamp": "2024-01-19T08:30:00Z",
+    "likesCount": 7
+  },
+  {
+    "Id": 6,
+    "postId": 4,
+    "userId": 1,
+    "content": "Looks great! For micro-interactions, maybe try some subtle hover effects on the buttons? Keep it simple but engaging.",
+    "timestamp": "2024-01-18T21:10:00Z",
+    "likesCount": 4
+  },
+  {
+    "Id": 7,
+    "postId": 5,
+    "userId": 2,
+    "content": "This looks so peaceful! I really need to get back into a regular yoga practice. Thanks for the inspiration 🧘‍♂️",
+    "timestamp": "2024-01-18T09:45:00Z",
+    "likesCount": 6
+  }
+]
