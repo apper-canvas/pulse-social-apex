@@ -1,9 +1,9 @@
-import { useState } from 'react';
-import { motion } from 'framer-motion';
-import { toast } from 'react-toastify';
-import Avatar from '@/components/atoms/Avatar';
-import Button from '@/components/atoms/Button';
-import ApperIcon from '@/components/ApperIcon';
+import { useState } from 'react'
+import { motion, AnimatePresence } from 'framer-motion'
+import { toast } from 'react-toastify'
+import Avatar from '@/components/atoms/Avatar'
+import Button from '@/components/atoms/Button'
+import ApperIcon from '@/components/ApperIcon'
 import { postService, userService } from '@/services';
 
 const PostComposer = ({ onPostCreated, currentUser }) => {
